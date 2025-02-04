@@ -2,3 +2,4 @@ backtesting
 pandas
 yfinance
 numpy
+pandas_market_calendars
